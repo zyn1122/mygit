@@ -1,7 +1,8 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 	<head><title></title></head>
 	<body>
-	<div>�����ҵĵ�һ���汾</div>
+	<div>这是我的第一个版本</div>
+	<div>这是我的第二个版本</div>
 	</body>
 </html>
